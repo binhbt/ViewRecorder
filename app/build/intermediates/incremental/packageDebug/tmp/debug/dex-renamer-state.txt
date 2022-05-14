@@ -1,0 +1,7 @@
+#Sat May 14 19:57:14 ICT 2022
+base.0=/media/Projects/Demo/AI/ViewRecorder/app/build/intermediates/dex/debug/mergeExtDexDebug/out/classes.dex
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=/media/Projects/Demo/AI/ViewRecorder/app/build/intermediates/dex/debug/mergeProjectDexDebug/out/classes.dex
